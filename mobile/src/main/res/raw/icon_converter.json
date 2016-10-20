@@ -1,0 +1,42 @@
+{
+  "icons":{
+    "clear-sky-night": ["01n"],
+    "few-clouds-night": ["02n"],
+
+    "clear-sky-day": ["01d"],
+    "few-clouds-day": ["02d"]
+  },
+
+  "codes":{
+    "thunderstorm": [200,201,202,210,211,212,221,230,231,232],
+
+    "drizzle-light" : [300,310],
+    "drizzle-moderate" : [301,311,313,321],
+    "drizzle-heavy" : [302,312,314],
+
+    "rain-light" : [500,520,615],
+    "rain-moderate" : [501,511,521,531,616],
+    "rain-heavy" : [502,503,504],
+
+    "shower-light":[520],
+    "shower-moderate":[521],
+    "shower-heavy":[522],
+
+    "snow-light" : [600,620],
+    "snow-moderate" : [601,612,620],
+    "snow-heavy" : [602,622],
+
+    "sleet-light": [],
+    "sleet-moderate": [611,612],
+    "sleet-heavy" : [],
+
+    "fog-moderate" : [701,721],
+    "fog-heavy" : [711,711,721,731,741,751,761,762,771,781],
+
+    "clear-sky-day": [800],
+    "clouds": [801,802,803,804],
+
+    "extreme": [900,901,902,903,904,905,906]
+  }
+
+}

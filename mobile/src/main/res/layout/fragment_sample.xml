@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:orientation="vertical">
+
+    <com.thunderwarn.thunderwarn.common.slider.WrapContentHeightViewPager
+          android:id="@+id/viewpager"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:layout_weight="1"
+        android:background="@color/dim_foreground_material_dark"/>
+
+      <com.thunderwarn.thunderwarn.common.slider.SlidingBulletLayout
+          android:id="@+id/sliding_tabs"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content" />
+
+</LinearLayout>

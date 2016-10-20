@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Thunderwarn</string>
+    <string name="banner_ad_unit_id">ca-app-pub-5497431493387660/4096122037</string>
+    <string name="banner_ad_image_unit_id">ca-app-pub-5497431493387660/4777766437</string>
+
+    <!-- Menu -->
+    <string name="action_home">Home</string>
+    <string name="action_change_location">Change Location</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_help">Help</string>
+
+    <!-- Notification -->
+    <string name="notification_title">Thunderwarn</string>
+    <string name="notification_tomorrow_expect">Tomorrow expect</string>
+    <string name="notification_today_expect">Today expect</string>
+    <string name="notification_rain">rain</string>
+    <string name="notification_snow">snow</string>
+    <string name="and">and</string>
+
+    <!-- Main activity-->
+    <string name="loading_gps">Loading GPS coordinates...</string>
+    <string name="text3hours">3 Hours</string>
+    <string name="textDaily">Daily</string>
+
+
+    <string name="loading">Loading</string>
+    <string name="last_update">Last Update:</string>
+    <string name="error_requesting_data">Can\'t get weather data, verify internet connectivity and try again</string>
+    <string name="enableGPSMessage">Your GPS seems to be disabled, and without your coordinates we can\'t do a weather forecast</string>
+    <string name="enableGPS">Enable GPS</string>
+    <string name="enableWifiMessage">You seems to have no internet access, and without it we can\'t get a weather forecast for your region</string>
+    <string name="enableWifi">Enable Wifi</string>
+    <!-- details -->
+    <string name="time_interval">Time Interval</string>
+    <string name="temperature">Temperature</string>
+    <string name="apparent_temperature">Apparent Temperature</string>
+    <string name="humidity">Humidity</string>
+    <string name="wind_speed">Wind Speed</string>
+    <string name="wind_degree">Wind Degree</string>
+    <string name="rain">Rain</string>
+    <string name="snow">Snow</string>
+    <string name="cloudiness">Cloudiness</string>
+
+    <!-- settings -->
+    <string name="on">I</string>
+    <string name="off">O</string>
+    <string name="notifications">Notifications</string>
+    <string name="useGps">Use GPS</string>
+
+    <!-- help -->
+    <string name="aboutThunderwarn">About Thunderwarn</string>
+    <string name="aboutThunderwarnDescription">Thunderwarn is a weather app that try to avoid that you get wet for being surprised by rain. You will be notified each time that the forecast for the following day includes rain.</string>
+    <string name="apparent_temperature_description">We live in a world of perceptions, everything is relative, so we use the apparent temperature also known as \'fells like\' as the default temperature values that are shown in this app. This calculated value takes in consideration the thermometer temperature, humidity and wind speed</string>
+    <string name="colorMeaning">Color Meaning</string>
+    <string name="colorMeaningDescription">The color of the predictions that you will see in this app will change depending on the apparent temperature, the idea is that with practice, you don\'t even will need to read anything to know if will be harm or cold, in the following table you can see when each color appear depending to the minimum apparent temperature:</string>
+
+</resources>

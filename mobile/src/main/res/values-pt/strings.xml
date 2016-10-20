@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Thunderwarn</string>
+    <string name="banner_ad_unit_id">ca-app-pub-5497431493387660/4096122037</string>
+    <string name="banner_ad_image_unit_id">ca-app-pub-5497431493387660/4777766437</string>
+
+    <!-- Menu -->
+    <string name="action_home">Previsões</string>
+    <string name="action_change_location">Alterar localização</string>
+    <string name="action_settings">Definições</string>
+    <string name="action_help">Ajuda</string>
+
+    <!-- Notifications -->
+    <string name="notification_title">Thunderwarn</string>
+    <string name="notification_today_expect">Hoje espere</string>
+    <string name="notification_tomorrow_expect">Amanhã espere</string>
+    <string name="notification_rain">chuva</string>
+    <string name="notification_snow">neve</string>
+    <string name="and">and</string>
+
+    <!-- Main activity-->
+    <string name="loading_gps">A obter coordenadas GPS...</string>
+    <string name="text3hours">3 Horas</string>
+    <string name="textDaily">Diária</string>
+
+
+    <string name="loading">A carregar</string>
+    <string name="last_update">Última actualização:</string>
+
+    <string name="error_requesting_data">Não foi possível obter dados meteorológicos, verique a connecção à internet e volte a tentar...</string>
+    <string name="enableGPSMessage">Parece que o teu GPS está desactivado, e sem as tuas coordenadas não poderemos fazer uma previsão meteorológica</string>
+    <string name="enableGPS">Activar GPS</string>
+    <string name="enableWifiMessage">Parece que não tens acesso à internet, e sem internet não podemos obter uma previsão meteorológica para a tua região</string>
+    <string name="enableWifi">Activar Wifi</string>
+
+    <!-- details -->
+    <string name="time_interval">Intervalo de tempo</string>
+    <string name="temperature">Temperatura</string>
+    <string name="apparent_temperature">Temperatura aparente</string>
+    <string name="humidity">Humidade</string>
+    <string name="wind_speed">Velocidade do vento</string>
+    <string name="wind_degree">Ângulo do vento</string>
+    <string name="rain">Chuva</string>
+    <string name="snow">Neve</string>
+    <string name="cloudiness">Nebulosidade</string>
+
+    <!-- settings -->
+    <string name="on">I</string>
+    <string name="off">O</string>
+    <string name="notifications">Notificações</string>
+    <string name="useGps">Usar GPS</string>
+    <!-- help -->
+    <string name="aboutThunderwarn">Acerca do Thunderwarn</string>
+    <string name="aboutThunderwarnDescription">Thunderwarn é um aplicativo de tempo que tenta evitar que te molhes por seres surpreendido pela chuva. Serás notificado cada vez que a previsão para o dia seguinte incluir chuva.</string>
+    <string name="apparent_temperature_description">Vivemos num mundo de percepções, tudo é relativo, por isso usamos a temperatura aparente também conhecido como \'feels like\', como valores de temperatura padrão que são mostrados nesta aplicação. Este valor calculado com base na temperatura do termômetro, humidade e velocidade do vento.</string>
+    <string name="colorMeaning">Significado das Cores</string>
+    <string name="colorMeaningDescription">A cor das previsões que vais ver nesta aplicação mudam consoante a temperatura aparente, a ideia é que com a prática, nem sequer vais precisar de ler nada para ter uma ideia se vai estar calor ou frio, na seguinte tabela podes ver como as cores variam em relação à temperatura mínima aparente:</string>
+
+</resources>
+

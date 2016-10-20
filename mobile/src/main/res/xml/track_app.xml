@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <string name="ga_trackingId">UA-70808806-1</string>
+    <bool name="ga_autoActivityTracking">true</bool>
+
+    <screenName name="com.thunderwarn.thunderwarn.MainActivity">Main</screenName>
+    <screenName name="com.thunderwarn.thunderwarn.activities.DetailsActivity">Details</screenName>
+    <screenName name="com.thunderwarn.thunderwarn.activities.HelpActivity">Help</screenName>
+    <screenName name="com.thunderwarn.thunderwarn.activities.SettingsActivity">Settings</screenName>
+    <screenName name="com.thunderwarn.thunderwarn.activities.ChangeLocationActivity">Change Location</screenName>
+
+</resources>
